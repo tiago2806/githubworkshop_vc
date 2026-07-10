@@ -40,10 +40,6 @@ GitHub is an online platform where Git repositories can be stored and where team
 
 A repository is the project folder containing the files, code, and history of changes.
 
-### Commit
-
-A commit is like a checkpoint. It saves a specific version of your changes.
-
 ### Branch
 
 A branch is a separate line of work. It allows you to make changes without directly affecting the main version of the project.
