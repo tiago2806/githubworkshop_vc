@@ -314,9 +314,6 @@ git clone REPOSITORY_URL
 # Enter project folder
 cd github-workshop
 
-# Open in VS Code
-code .
-
 # Check file status
 git status
 
