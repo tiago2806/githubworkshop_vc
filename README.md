@@ -5,6 +5,8 @@ This repository was created for an introductory workshop about Git and GitHub, w
 The main goal is for all participants to learn how to work with branches, make changes to a project, push those changes to GitHub, and open a Pull Request.
 This will increases the efficiency of process of developing the projects.
 
+O jaime n mudou isto.
+
 ---
 
 ## Workshop Goal
